@@ -35,6 +35,12 @@
 			<version>2.3.20</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongodb-driver</artifactId>
+			<version>3.0.0-rc0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
