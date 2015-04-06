@@ -1,4 +1,4 @@
-package ar.com.dno.mongodb;
+package ar.com.dno.mongodb.helloworld;
 
 import java.io.StringWriter;
 import java.util.HashMap;
